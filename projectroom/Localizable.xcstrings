@@ -1,0 +1,403 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "...I have no idea what to wear. Maybe I could try something new, like a nice jacket, a shirt..." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "...non ho idea di cosa indossare. Forse potrei provare qualcosa di nuovo, come una bella giacca, una camicia..."
+          }
+        }
+      }
+    },
+    "...Then again, what would it cost me? I could simply disappear for the umpteenth time and not show up." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "...D'altra parte, cosa mi costerebbe? Potrei semplicemente sparire per l'ennesima volta e non farmi vedere."
+          }
+        }
+      }
+    },
+    "...well. I'd better leave early, it's a far place and I want to make sure I get there in time..." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "...beh. È meglio che parta presto, è un posto lontano e voglio essere sicuro di arrivare in tempo..."
+          }
+        }
+      }
+    },
+    "...What if I... make up some other excuse?" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "...E se... inventassi qualche altra scusa?"
+          }
+        }
+      }
+    },
+    "All right. So I decided to go there." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Va bene. Così ho deciso di andarci."
+          }
+        }
+      }
+    },
+    "But after all, what do I care? It is just a simple dinner, I would not miss anything..." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ma in fondo, che mi importa? È solo una semplice cena, non mi mancherebbe nulla..."
+          }
+        }
+      }
+    },
+    "But who am I kidding? Me, worrying about hurting them? They don't give a damn about me at all (although deep down I hope they do)." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ma chi voglio prendere in giro? Io che mi preoccupo di ferirli? A loro non importa nulla di me (anche se nel profondo spero che lo facciano)."
+          }
+        }
+      }
+    },
+    "For effort? That one does." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Per lo sforzo? Questo sì."
+          }
+        }
+      }
+    },
+    "Hmm... However, others might be hurt. I might hurt them." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hmm... Tuttavia, altri potrebbero essere feriti. Potrei far loro del male."
+          }
+        }
+      }
+    },
+    "I have everything I need to be happy. Or at least, that's how I tell myself..." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ho tutto ciò che mi serve per essere felice. O almeno, è così che mi dico..."
+          }
+        }
+      }
+    },
+    "I haven't updated it in a while now; in fact, I've almost lost track of the days." : {
+      "comment" : "Calendar",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ormai non lo aggiorno da un pò, in effetti ho quasi perso il conto dei giorni."
+          }
+        }
+      }
+    },
+    "I should empty it out. But then I think, “What happens if I don't?” And the answer is: absolutely nothing. Perfect, I can put it off." : {
+      "comment" : "Trash",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dovrei svuotarlo. Ma poi penso: “cosa succede se non lo faccio?” E la risposta è: assolutamente niente. Perfetto, posso rimandare."
+          }
+        }
+      }
+    },
+    "I still have the chat open actually, I've given my word by now, and then thinking about it I really want to go there." : {
+      "comment" : "Computer",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ho ancora la chat aperta in effetti, ormai ho dato la mia parola, e poi pensandoci voglio andarci davvero."
+          }
+        }
+      }
+    },
+    "I think I'll go with my usual clothes. They make me feel safe." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penso che userò i miei soliti vestiti. Mi fanno sentire al sicuro."
+          }
+        }
+      }
+    },
+    "It seems a bit pointless to bring it just for headphones, maybe I could bring something\nto eat as well..." : {
+      "comment" : "Backpack",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sembra un pò inutile portarlo solo per le cuffie, forse potrei portare anche qualcosa da mangiare..."
+          }
+        }
+      }
+    },
+    "It's a simple outing, a simple dinner." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È una semplice uscita, una semplice cena."
+          }
+        }
+      }
+    },
+    "Just take a simple breath, jump in and everything will be fine." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basta solo prendere un semplice respiro, buttarsi e tutto andrà per il meglio."
+          }
+        }
+      }
+    },
+    "Let me first check if I got everything, just in case." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prima di tutto vorrei controllare se ho preso tutto, per sicurezza."
+          }
+        }
+      }
+    },
+    "Let's see..." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vediamo…"
+          }
+        }
+      }
+    },
+    "Maybe I'll take a peek outside: Nothing extraordinary, although it looks like a beautiful day. Amazing that somewhere out there are people waiting for me." : {
+      "comment" : "Windows",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magari dò una sbirciatina fuori: Niente di straordinario, anche se sembra una bella giornata. Incredibile che da qualche parte là fuori ci siano persone che mi stanno aspettando."
+          }
+        }
+      }
+    },
+    "My favorite game: Dark Sauce! How many hours will I have spent on it? Way too many, although I never get tired of it." : {
+      "comment" : "Poster",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il mio gioco preferito: Dark Sauce! Quante ore ci avrò passato? Decisamente troppe, anche se non mi stanca mai."
+          }
+        }
+      }
+    },
+    "My old friends, should I bring them? It's still a nice subway ride, and my comfort music usually helps... Nha, it won't go like that! Right?" : {
+      "comment" : "Headphones",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le mie vecchie amiche, le porto? È comunque un bel viaggio in metro, e la mia musica di comfort aiuta di solito… Nha, non andrà così! Giusto?"
+          }
+        }
+      }
+    },
+    "my own space, my own passions, my own time... after all, every now and then even just that breeze coming from the window is enough to shake me for a moment." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "il mio spazio, le mie passioni, il mio tempo... in fondo, ogni tanto anche solo la brezza che proviene dalla finestra basta a scuotermi per un attimo."
+          }
+        }
+      }
+    },
+    "No, definitely not." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No, decisamente no."
+          }
+        }
+      }
+    },
+    "Or I could use the usual “Steve” tactic, it's practically patented now." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oppure potrei usare la solita tattica “Steve”, ormai praticamente brevettata."
+          }
+        }
+      }
+    },
+    "Roomy Journey" : {
+
+    },
+    "So it's time, apparently." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allora si va, a quanto pare."
+          }
+        }
+      }
+    },
+    "Sound1" : {
+
+    },
+    "Sound2" : {
+
+    },
+    "Start" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inizia"
+          }
+        }
+      }
+    },
+    "Still undone, definitely too long ago. I really should do it again. Or I can leave it like that, I'll be back in a few hours anyway. Hmm, i think about it some more..." : {
+      "comment" : "Bed",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ancora disfatto, decisamente da troppo tempo. Dovrei proprio rifarlo. O posso lasciarlo così, tanto tornerò in poche ore. Hmm, ci penso ancora un pò…"
+          }
+        }
+      }
+    },
+    "Thanks for Playing!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grazie per aver giocato!"
+          }
+        }
+      }
+    },
+    "The only person I would really let down would be me. Again." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'unica persona che deluderei davvero sarebbe me stessa. Di nuovo."
+          }
+        }
+      }
+    },
+    "They've never even seen me, so how can I blame them after all." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non mi hanno mai visto, quindi come posso biasimarli, dopotutto."
+          }
+        }
+      }
+    },
+    "Too weird. Too different. Too 'not me.'" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troppo strano. Troppo diverso. Troppo “non io”."
+          }
+        }
+      }
+    },
+    "TUTORIAL\nTap on screen = Next Dialogue\nTap on text = Complete Phrase" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TUTORIAL\nClicca su screen = Dialogo Successivo\nClicca sul testo = Completa la Frase"
+          }
+        }
+      }
+    },
+    "Well now I'm forced to actually go, by now I've promised... Haven't I?" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beh, ora sono costretto ad andare davvero, ormai l'ho promesso... No?"
+          }
+        }
+      }
+    },
+    "Who would really care?" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A chi interesserebbe davvero?"
+          }
+        }
+      }
+    },
+    "Why put so much effort into such stupidity? It's not like I should be rewarded for style." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perché impegnarsi così tanto in una simile stupidità? Non è che dovrei essere premiato per lo stile."
+          }
+        }
+      }
+    },
+    "Would my absence really hurt anyone? Funny, but from what they wrote it would seem so." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La mia assenza avrebbe davvero danneggiato qualcuno? Strano, ma da quello che hanno scritto sembrerebbe di sì."
+          }
+        }
+      }
+    },
+    "Yes, I will stay home this time too. Nothing can go wrong here." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sì, anche questa volta resterò a casa. Qui non c'è niente che possa andare storto."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
